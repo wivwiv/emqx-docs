@@ -25,7 +25,7 @@ For SSL/TLS connection in EMQX, you can enable a direct connection between EMQX 
 
 This chapter will focus on how to enable SSL/TLS connection between the client and EMQX. For how to terminate TLS connections through a proxy or load balancer, please refer to [Cluster Load Balancing](../deploy/cluster/lb.md).
 
-## Enable  SSL/TLS connection with configuration files
+## Enable SSL/TLS connection with configuration files
 
 :::tip
 
@@ -33,7 +33,7 @@ Prerequisites: SSL/TLS certificates are ready.
 
 EMQX provides a set of SSL/TLS certificates (in the `etc/certs` directory) with the installation package and enables SSL/TLS connections on port `8883`. The attached SSL/TLS certificates are for testing and verification only. You should switch to certificates signed by a trusted CA for the production environment.
 
-On how to apply for SSL/TLS certificates, see <!-- here you need to insert an anchor link --> section.
+On how to apply for SSL/TLS certificates, see [Further reading: How to obtain SSL/TLS certificates](#Further-reading:-How-to-obtain-SSL/TLS-certificates).
 
 :::
 
