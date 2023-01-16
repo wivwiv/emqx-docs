@@ -5,7 +5,7 @@ EMQX 支持通过插件扩展自定义业务逻辑，或通过插件的协议扩
 插件开发和运行基本流程如下：
 
 - 通过 EMQX 提供的插件模板生成对应的插件 tar.gz 包。
-- 通过 Dashboard 或 CLI 安装插件包，
+- 通过 Dashboard 或 CLI 安装插件包。
 - 通过 Dashboard 或 CLI 启动/停止/卸载插件。
 
 :::tip
@@ -98,7 +98,7 @@ on_client_authorize(_ClientInfo, _Pub, _Topic, Result, _Env) -> {ok, Result}.
 
 ### 5. 打包插件
 
-通过 rebar.config 中修改插件的版本信息：
+通过 `rebar.config` 中修改插件的版本信息：
 
 ```erlang
 {relx, [ {release, {emqx_plugin_template, "5.0.0-rc.3"}, [emqx_plugin_template, map_sets]}
