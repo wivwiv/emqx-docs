@@ -10,7 +10,7 @@
 
 ## 环境要求
 
-由于是实验性功能，在 CentOS 6、macOS 以及 Windows 系统下并未包含 QUIC 编译，请自行从源码编译并在编译前指定环境变量 `BUILD_WITH_QUIC=1`，其他操作系统和平台则可以正常使用。
+由于是实验性功能，在 CentOS 6、macOS 以及 Windows 系统下并未包含 QUIC 编译，请自行从[源码编译](../deploy/install-source.md)并在编译前指定环境变量 `BUILD_WITH_QUIC=1`，其他操作系统和平台则可以正常使用。
 
 测试环境推荐使用 Docker 镜像，以下命令通过环境变量启用 QUIC 监听器并映射 UDP 14567 作为接入端口：
 
@@ -66,7 +66,7 @@ MQTT over QUIC 默认禁用，请通过以下配置手动开启。
      current_conn    : 0
      max_conns       : 512000
   ```
-  
+
 
 至此，您已经在 EMQX 上启用了 MQTT over QUIC 监听器，下面我们将接入客户端。
 
@@ -116,7 +116,7 @@ nng_mqtt_quic_client_open(&socket, url);
 quic_client sub/pub mqtt-quic://127.0.0.1:14567 topic msg
 ```
 
-NanoSDK 也提供 Java) 和 Python 的 binding：
+NanoSDK 也提供 Java 和 Python 的 binding：
 
 - [Java MQTT over QUIC Client](https://github.com/nanomq/nanosdk-java/blob/main/demo/src/main/java/io/sisu/nng/demo/quicmqtt/MqttQuicClient.java)
 - [Python MQTT over QUIC Client](https://github.com/wanghaEMQ/pynng-mqtt/blob/master/examples/mqttsub.py)

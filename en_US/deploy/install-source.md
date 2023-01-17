@@ -1,4 +1,4 @@
-# Install from Source code
+# Install from source code
 
 ## Dependencies
 
