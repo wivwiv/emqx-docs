@@ -133,7 +133,7 @@ EMQX 日志文件目录默认存放在 `./log` （zip包解压安装方式）或
 日志消息的格式为（各个字段之间用空格分隔）：
 
 ```
-**date time level key-value-struct**
+date time level key-value-struct
 ```
 
 其中：

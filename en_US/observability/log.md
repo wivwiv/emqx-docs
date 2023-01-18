@@ -133,7 +133,7 @@ log.file_handlers.my_info_log {
 The format of the log message (with different fields separated by spaces) is as follows:
 
 ```
-**date time level client_info module_info msg**
+date time level client_info module_info msg
 ```
 
 where,
