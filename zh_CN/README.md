@@ -62,23 +62,23 @@ EMQX 企业版提供一体化的分布式 MQTT 消息服务和强大的 IoT 规�
 | **数据集成（开箱即用）** | 3                                                           | 40+                                                         |
 | **License**              | Apache Version 2.0                                          | Commercial License (Business Source License)                |
 | **技术支持**             | 开源社区                                                    | 7x24 全球支持                                               |
-| **MQTT 5.0**             | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **MQTT over QUIC**       | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **MQTT 扩展**            | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **多协议网关**           | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **多租户**               | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **跨地域复制**           | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **数据持久化**           | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **Schema Registry**      | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **消息编解码**           | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **规则引擎**             | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **Flow Editor**          | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **文件传输**             | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **Kafka 集成**           | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **企业系统集成**         | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **故障排查**             | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **云原生 & K8s**         | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **边缘计算**             | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
+| **MQTT 5.0**             | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **MQTT over QUIC**       | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **MQTT 扩展**            | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **多协议网关**           | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **多租户**               | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **跨地域复制**           | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **数据持久化**           | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **Schema Registry**      | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **消息编解码**           | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **规则引擎**             | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **Flow Editor**          | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **文件传输**             | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **Kafka 集成**           | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **企业系统集成**         | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **故障排查**             | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **云原生 & K8s**         | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **边缘计算**             | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
 
 {% endemqxce %}
 
@@ -95,22 +95,22 @@ EMQX 企业版提供一体化的分布式 MQTT 消息服务和强大的 IoT 规�
 | **数据集成（开箱即用）** | 40+                                                         | 3                                                           |
 | **License**              | Commercial License (Business Source License)                | Apache Version 2.0                                          |
 | **技术支持**             | 7x24 全球支持                                               | 开源社区                                                    |
-| **MQTT 5.0**             | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **MQTT over QUIC**       | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **MQTT 扩展**            | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **多协议网关**           | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **多租户**               | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **跨地域复制**           | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **数据持久化**           | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **Schema Registry**      | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **消息编解码**           | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **规则引擎**             | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **Flow Editor**          | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **文件传输**             | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **Kafka 集成**           | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **企业系统集成**         | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  |
-| **故障排查**             | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **云原生 & K8s**         | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
-| **边缘计算**             | <img src="./assets/cross_mark_64.png" style="zoom:40%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:40%;" /> |
+| **MQTT 5.0**             | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **MQTT over QUIC**       | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **MQTT 扩展**            | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **多协议网关**           | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **多租户**               | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **跨地域复制**           | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **数据持久化**           | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **Schema Registry**      | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **消息编解码**           | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **规则引擎**             | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **Flow Editor**          | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **文件传输**             | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **Kafka 集成**           | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **企业系统集成**         | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  |
+| **故障排查**             | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **云原生 & K8s**         | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
+| **边缘计算**             | <img src="./assets/cross_mark_64.png" style="zoom:30%;" />  | <img src="./assets/check_mark_64.png"  style="zoom:30%;" /> |
 
 {% endemqxee %}
